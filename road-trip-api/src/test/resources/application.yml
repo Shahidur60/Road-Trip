@@ -1,0 +1,17 @@
+server:
+  port : 8080
+  servlet:
+    context-path: /api
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    database: mysql
+  datasource:
+    platform: mysql
+    username: admin # Note: Do not change any of this!
+    password: password
+    url: jdbc:mysql://34.125.218.39:3306/RoadTrip
+    driver-class-name: com.mysql.cj.jdbc.Driver

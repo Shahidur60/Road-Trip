@@ -1,0 +1,10 @@
+<svg width="600" height="200" version="1.1" desc="Created with imagetracer.js version 1.2.6" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="300" y1="66" x2="300" y2="200" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(71, 181, 255, 1)"></stop>
+      <stop offset="1" style="stop-color: rgba(0, 134, 224, 1)"></stop>
+    </linearGradient>
+  </defs>
+  <path fill="rgb(0,0,0)" stroke="rgb(0,0,0)" stroke-width="1" opacity="0" d="M 0 0 L 599.5 0 L 600 0.5 L 600 82 L 553.5 98 L 539.5 93 L 524.5 98 L 492.5 76 L 472.5 83 L 458.5 75 L 455.5 75 L 407.5 97 L 404.5 97 L 388.5 89 L 380.5 94 L 343.5 76 L 307.5 88 L 302.5 88 L 286.5 82 L 276.5 88 L 273.5 88 L 222.5 66 L 219.5 66 L 182.5 82 L 176.5 83 L 149.5 75 L 137.5 73 L 93.5 88 L 36.5 66 L 12.5 79 L 0 74.5 L 0 0 Z "></path>
+  <path stroke-width="1" opacity="1" d="M 36.5 66 L 95.5 88 L 137.5 73 L 141.5 73 L 179.5 83 L 219.5 66 L 222.5 66 L 263.5 84 L 276.5 88 L 286.5 82 L 302.5 88 L 307.5 88 L 344.5 76 L 380.5 94 L 388.5 89 L 404.5 97 L 407.5 97 L 448.5 78 L 458.5 75 L 474.5 83 L 493.5 76 L 525.5 98 L 540.5 93 L 554.5 98 L 600 82 L 600 199.5 L 599.5 200 L 0 200 L 0.5 75 L 13.5 79 L 36.5 66 Z " style="paint-order: fill; stroke: rgba(255, 111, 0, 0); fill: url(#gradient-0);"></path>
+</svg>
